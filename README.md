@@ -2,7 +2,7 @@
 - 👀 I’m interested in some of my hobbies inclube riding mountain bikes, exploring the city and finding new places to eat.
 - 🌱 I’m currently learning how to become a software developer.
 - 💞️ I’m looking to collaborate on any projects that will help me solidify the lessons I am learning
-- 📫 How to reach me via email: sean.malan@developersinstitute.co.nz
+- 📫 How to reach me via email: smseanmalan@gmail.com
 
 <!---
 seanmalan/seanmalan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
